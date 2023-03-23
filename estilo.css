@@ -37,6 +37,7 @@ h1 {
 
 .container1 {
     display: flex;
+    justify-content: flex-start;
 }
 
 .container2 {
